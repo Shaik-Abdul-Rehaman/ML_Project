@@ -1,6 +1,1 @@
-#hello
-
-
-
-
-hello my nameis ihfafoaehrfasncsdfadadfad
+print("hello world")
